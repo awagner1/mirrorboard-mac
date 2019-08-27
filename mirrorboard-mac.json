@@ -107,7 +107,7 @@
           },
           "to": [
             {
-              "key_code": "enter"
+              "key_code": "keypad_enter"
             }
           ],
           "conditions": [
