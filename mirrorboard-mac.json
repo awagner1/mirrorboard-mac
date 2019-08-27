@@ -107,7 +107,7 @@
           },
           "to": [
             {
-              "key_code": "return"
+              "key_code": "enter"
             }
           ],
           "conditions": [
