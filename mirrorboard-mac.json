@@ -100,7 +100,7 @@
         },
         {
           "from": {
-            "key_code": "space",
+            "key_code": "spacebar",
             "modifiers": {
               "optional": ["any"]
             }
