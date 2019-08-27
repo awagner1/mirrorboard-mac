@@ -2,11 +2,11 @@
   "title": "mirrorboard-mac",
   "rules": [
     {
-      "description": "A one-handed layout keyboard layout. Hold spacebar to mirror the keyboard layout so that both sides of the keyboard can be intuitively typed by either hand on its own.",
+      "description": "A one-handed layout keyboard layout. Hold caps to mirror the keyboard layout so that both sides of the keyboard can be intuitively typed by either hand on its own.",
       "manipulators": [
         {
           "from": {
-            "key_code": "capslock",
+            "key_code": "caps_lock",
             "modifiers": {
               "optional": ["any"]
             }
@@ -29,7 +29,7 @@
           ],
           "to_if_alone": [
             {
-              "key_code": "capslock"
+              "key_code": "caps_lock"
             }
           ],
           "type": "basic"
